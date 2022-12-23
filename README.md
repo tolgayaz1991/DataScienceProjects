@@ -4,7 +4,7 @@
 
 ### 1. Drug Persistency Prediction via Random Forest Algorithm (My Virtual Internship Final Project)
 
-#### GitHub Link for Final Code:
+#### - GitHub Link for Final Code:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week13/HealthcareProject_FinalCode.ipynb
 
