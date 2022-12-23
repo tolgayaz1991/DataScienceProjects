@@ -4,6 +4,15 @@ A few projects that I have worked on during my data science journey.
 
 1. Drug persistency prediction project via Random Forest algorithm (My Virtual Internship Final Project)
 
+GitHub Link for Final Code:
+
+https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week13/HealthcareProject_FinalCode.ipynb
+
+GitHub Link for Project Summary Report:
+
+https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week13/DataScience_Healthcare_Project_FinalReport.pdf
+
+
 2. Car Price Prediction Project including Flask Deployment, Heroku Deployment
 
 3. Finding the Relationship between Fuel Consumption and co2 Emission of a Car via Linear Regression
