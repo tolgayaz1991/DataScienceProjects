@@ -37,7 +37,7 @@ https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week8/Week%208%20
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week7/Week%207%20Project%20Deliverables%20(Tolga%20Yaz).pdf
 
 
-2. Car Price Prediction Project including Flask Deployment, Heroku Deployment
+### 2. Car Price Prediction Project including Flask Deployment, Heroku Deployment
 
 3. Finding the Relationship between Fuel Consumption and co2 Emission of a Car via Linear Regression
 
