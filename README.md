@@ -1,8 +1,8 @@
 # DataScienceProjects
 
-A few projects that I have worked on during my data science journey.
+## A few projects that I have worked on during my data science journey.
 
-1. Drug persistency prediction project via Random Forest algorithm (My Virtual Internship Final Project)
+### 1. Drug persistency prediction project via Random Forest algorithm (My Virtual Internship Final Project)
 
 GitHub Link for Final Code:
 
