@@ -40,21 +40,82 @@ https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week7/Week%207%20
 
 ### 2. Car Price Prediction Project including Flask Deployment, Heroku Deployment
 
-3. Finding the Relationship between Fuel Consumption and co2 Emission of a Car via Linear Regression
+#### - Repo Link for Project Code and Heroku Deployment:
 
-4. Prediction of China's gdp via Using the gdp between 1960 - 2014 via non-Linear Regression
+https://github.com/tolgayaz1991/dgInternshipW5HerokuDeployment
 
-5. Classification of the Customers of a Company via knn Algorithm
+#### - Link for Heroku Deployment Report:
 
-6. Finding the Proper Drug for a New Patient via Decision Tree Algorithm
+https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week5/Heroku%20Deployment%20(Tolga%20Yaz).pdf
 
-7. Classification of Human Cells as Benign or Malignant for Cancer Diagnosis via svm algorithm
+#### - Link for Flask Deployment Report:
 
-8. Car Price Prediction via Data Analysis Techniques
+https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week4/Flask%20Deployment%20(Tolga%20Yaz).pdf
 
-9. Cancer diagnosis based on the input feature values (usage of logistic reg via pyTorch).
+---
 
-10. Linear Regression with TensorFlow
+### 3. Finding the Relationship between Fuel Consumption and co2 Emission of a Car via Linear Regression
 
-11. Convolution and Simple Image Processing with TensorFlow
+#### - Link for Project Code:
+
+https://github.com/tolgayaz1991/MachineLearningProject1/blob/main/0.%20Machine%20Learning%20Project%201%20(FuelVsCo2).ipynb
+
+---
+
+### 4. Prediction of China's gdp via Using the gdp between 1960 - 2014 via non-Linear Regression
+
+#### - Link for Project Code:
+
+https://github.com/tolgayaz1991/MachineLearningProject2/blob/main/1.%20Machine%20Learning%20Project%202%20(YearsVsChiGdp).ipynb
+
+---
+
+### 5. Classification of the Customers of a Company via knn Algorithm
+
+#### - Link for Project Code:
+
+https://github.com/tolgayaz1991/MachineLearningProject3/blob/main/2.%20Machine%20Learning%20Project%203%20(Customer%20Classes).ipynb
+
+---
+
+### 6. Finding the Proper Drug for a New Patient via Decision Tree Algorithm
+
+#### - Link for Project Code:
+
+https://github.com/tolgayaz1991/MachineLearningProject4/blob/main/3.%20Machine%20Learning%20Project%204%20(Proper%20Drug%20for%20a%20Patient).ipynb
+
+---
+
+### 7. Classification of Human Cells as Benign or Malignant for Cancer Diagnosis via svm algorithm
+
+#### - Link for Project Code:
+
+https://github.com/tolgayaz1991/MachineLearningProject5/blob/main/4.%20Machine%20Learning%20Project%205%20(BenignOrMalignantCell).ipynb
+
+---
+
+### 8. Cancer diagnosis based on the input feature values (usage of logistic reg via pyTorch).
+
+#### - Link for Project Code:
+
+https://github.com/tolgayaz1991/pytorchProject1/blob/main/0.%20Deep%20Learning%20with%20PyTorch%201%20(Project%201%2C%20Cancer%20Diagnosis).ipynb
+
+---
+
+### 9. Convolution and Simple Image Processing with TensorFlow
+
+#### - Link for Project Code:
+
+https://github.com/tolgayaz1991/TensorFlowProject2/blob/main/Deep%20Learning%20with%20Tensorflow%202%20(Convolution%20and%20Simple%20Image%20Processing).ipynb
+
+---
+
+
+### 10. Linear Regression with TensorFlow
+
+#### - Link for Project Code:
+
+https://github.com/tolgayaz1991/TensorFlowProject1/blob/main/Deep%20Learning%20with%20Tensorflow%201%20(Linear%20Regression%20Lab).ipynb
+
+---
 
