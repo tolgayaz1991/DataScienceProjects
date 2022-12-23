@@ -4,35 +4,35 @@
 
 ### 1. Drug Persistency Prediction Project (My Virtual Internship Final Project)
 
-#### - GitHub Link for Final Project Code:
+#### - Link for Final Project Code:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week13/HealthcareProject_FinalCode.ipynb
 
-#### - GitHub Link for Project Summary Report:
+#### - Link for Project Summary Report:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week13/DataScience_Healthcare_Project_FinalReport.pdf
 
-#### - GitHub Link for Exploratory Data Analysis Code:
+#### - Link for Exploratory Data Analysis Code:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week10/Healthcare_Project_ExploratoryDataAnalysis1.ipynb
 
-#### - GitHub Link for Exploratory Data Analysis Report:
+#### - Link for Exploratory Data Analysis Report:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week11/DataScience_Healthcare_Project_eda_Presentation.pdf
 
-#### - GitHub Link for Data Cleansing and Transformation Code:
+#### - Link for Data Cleansing and Transformation Code:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week9/Healthcare_Project_Data_Cleansing_and_Transformation.ipynb
 
-#### - GitHub Link for Data Cleansing and Transformation Report:
+#### - Link for Data Cleansing and Transformation Report:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week9/Week%209%20Project%20Deliverable%20(Tolga%20Yaz).pdf
 
-#### - GitHub Link for Data Understanding Report:
+#### - Link for Data Understanding Report:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week8/Week%208%20Project%20Deliverable%20(Tolga%20Yaz).pdf
 
-#### - GitHub Link for Project Lifecycle and Data Intake Report:
+#### - Link for Project Lifecycle and Data Intake Report:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week7/Week%207%20Project%20Deliverables%20(Tolga%20Yaz).pdf
 
