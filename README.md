@@ -2,9 +2,9 @@
 
 ## A few projects that I have worked on during my data science journey.
 
-### 1. Drug Persistency Prediction via Random Forest Algorithm (My Virtual Internship Final Project)
+### 1. Drug Persistency Prediction Project (My Virtual Internship Final Project)
 
-#### - GitHub Link for Final Code:
+#### - GitHub Link for Final Project Code:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week13/HealthcareProject_FinalCode.ipynb
 
