@@ -4,6 +4,10 @@
 
 ### 1. Drug Persistency Prediction Project (My Virtual Internship Final Project)
 
+#### - Link for the Certificate:
+
+https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Tolga%20Yaz%20Virtual%20Internship%20Certificate.pdf
+
 #### - Link for Final Project Code:
 
 https://github.com/tolgayaz1991/DgInternshipProjects/blob/main/Week13/HealthcareProject_FinalCode.ipynb
